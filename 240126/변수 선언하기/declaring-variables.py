@@ -1,2 +1,3 @@
 a, b = 3, 'C'
-print(a, b, end='\n')
+print(a)
+print(b)
