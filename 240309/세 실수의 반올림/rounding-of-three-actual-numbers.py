@@ -1,0 +1,7 @@
+a = float(input())
+b = float(input())
+c = float(input())
+aa = '{0:.3f}'.format(a)
+bb = '{0:.3f}'.format(b)
+cc = '{0:.3f}'.format(c)
+print(aa, bb, cc, sep='\n')
